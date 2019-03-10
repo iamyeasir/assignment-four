@@ -175,7 +175,7 @@ header {}
 .footer .footer-end .footer-menu a {font-family: 'Source Sans Pro';color: #707e8c;font-size: 14px;font-weight: 400;letter-spacing: 0.28px;line-height: 22px;text-align: right;text-decoration: none;}
 .footer .footer-end .footer-menu a:hover {}
 .footer .footer-end .back-to-top {}
-.mega-menu:hover .mega-menu-dropdown {display:unset}
+.mega-menu:hover .mega-menu-dropdown {display:block;}
 
 
 
